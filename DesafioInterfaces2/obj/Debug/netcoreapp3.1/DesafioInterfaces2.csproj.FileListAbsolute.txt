@@ -1,0 +1,13 @@
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\bin\Debug\netcoreapp3.1\DesafioInterfaces2.exe
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\bin\Debug\netcoreapp3.1\DesafioInterfaces2.deps.json
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\bin\Debug\netcoreapp3.1\DesafioInterfaces2.runtimeconfig.json
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\bin\Debug\netcoreapp3.1\DesafioInterfaces2.runtimeconfig.dev.json
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\bin\Debug\netcoreapp3.1\DesafioInterfaces2.dll
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\bin\Debug\netcoreapp3.1\DesafioInterfaces2.pdb
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.AssemblyInfoInputs.cache
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.AssemblyInfo.cs
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.dll
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.pdb
+C:\Users\Mega Tecnologia\source\repos\DesafioInterfaces2\DesafioInterfaces2\obj\Debug\netcoreapp3.1\DesafioInterfaces2.genruntimeconfig.cache
